@@ -13,7 +13,7 @@ Cleaned a 16,000+ row raw CSV dataset. Key actions included:
 * Implementing functions like `VLOOKUP`, `COUNTIF`, `AVERAGEIF`, and conditional logic.
 
 ### Cleaned Dataset Preview:
-![Cleaned Dataset](cleaned_dataset.jpg)
+![Cleaned Dataset](cleaned_dataset.png)
 
 ---
 
